@@ -30,6 +30,9 @@
 
                  <li class="lista-menu_-item">
                     <a href="#" class="lista-menu__link">busines</a></li>
+                    <li class="lista-menu__item">
+                     <a href="#" class="lista-menu__link">design & ux</a> 
+                    </li>
               </ul>
 
                <img src="img/logo.svg" alt="logo da alurabooks">
