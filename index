@@ -22,13 +22,13 @@
                 <a href="#" class="lista-menu__link">programação</a></li>
 
 
-               <li class="lista_menu__item">
+               <li class="lista-menu__item">
               <a href="#" class="lista-menu__link"> frot end</a></li>
                 
                   <li class="lista-menu__item">
                     <a href="#" class="lista-menu__link">infraestrutura</a></li>
 
-                 <li class="lista-menu_-item">
+                 <li class="lista-menu__item">
                     <a href="#" class="lista-menu__link">busines</a></li>
                     <li class="lista-menu__item">
                      <a href="#" class="lista-menu__link">design & ux</a> 
@@ -39,7 +39,7 @@
 
             <div class="container">
         
-             <a href="#"></img src="img/favoritos.svg" alt="meus favoritos" class="container__imagem"></a>
+             <a href="#"></img src="img/Favoritos.svg" alt="meus favoritos" class="container__imagem"></a>
 
              <a href="#"><img src="img/Compras.svg" alt="carrinho de compras" class="container__imagem"></a>
 
@@ -48,26 +48,3 @@
          </header>
 </body>
 </html>
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-         </header>
-</body>
